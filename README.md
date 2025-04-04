@@ -23,7 +23,7 @@ Tailwind CSS – Utility-first styling for responsiveness
 📦 Installation & Setup
 Clone the repository
 
-git clone https://github.com/your-username/movie-recommender.git
+
 cd movie-recommender
 Install dependencies
 
